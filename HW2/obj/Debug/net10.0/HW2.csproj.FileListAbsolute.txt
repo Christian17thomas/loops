@@ -1,0 +1,14 @@
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/bin/Debug/net10.0/HW2
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/bin/Debug/net10.0/HW2.deps.json
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/bin/Debug/net10.0/HW2.runtimeconfig.json
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/bin/Debug/net10.0/HW2.dll
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/bin/Debug/net10.0/HW2.pdb
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/HW2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/HW2.AssemblyInfoInputs.cache
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/HW2.AssemblyInfo.cs
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/HW2.csproj.CoreCompileInputs.cache
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/HW2.dll
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/refint/HW2.dll
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/HW2.pdb
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/HW2.genruntimeconfig.cache
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/ref/HW2.dll
