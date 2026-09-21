@@ -12,3 +12,4 @@
 /Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/HW2.pdb
 /Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/HW2.genruntimeconfig.cache
 /Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/ref/HW2.dll
+/Users/christianthomas/RiderProjects/ConsoleApp6/HW2/obj/Debug/net10.0/HW2.sourcelink.json
